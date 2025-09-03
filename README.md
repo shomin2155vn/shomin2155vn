@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is Lê Nguyễn Gia Phúc, a Computer Science student at Bach Khoa University from Ho Chi Minh City(HCMUT). With a strong passion for technology, I am striving to become an AI Engineering.<br>🔬 My research interests include Computer Vision, Natural Language Processing, Large Language Models and Generative AI. I am amazed by how these fields blend mathematics, engineering and creativity to solve real-world problems.<br>🚀 I'm passionate about bridging the gap between AI research and production-ready systems.My goal is to do more than just develop intelligents models; I want to build a reliable, scalable infrastructures to serve millions of users.<br>👍My long-term goal is to become a  versatile engineer, actively engage with the global AI community and drive impactful innovation with curiosity and persistence</h2>
+<h2 align="left" style="white-space: pre-line; line-height: 3.5;">
+👋 Hi! My name is Lê Nguyễn Gia Phúc, a Computer Science student at Bach Khoa University from Ho Chi Minh City (HCMUT).
+With a strong passion for technology, I am striving to become an AI Engineer.
+
+🔬 My research interests include Computer Vision, Natural Language Processing, Large Language Models and Generative AI. 
+I am amazed by how these fields blend mathematics, engineering and creativity to solve real-world problems.
+
+🚀 I'm passionate about bridging the gap between AI research and production-ready systems.
+My goal is to do more than just develop intelligent models; I want to build reliable, scalable infrastructures to serve millions of users.
+
+👍 My long-term goal is to become a versatile engineer, actively engage with the global AI community 
+and drive impactful innovation with curiosity and persistence.
+</h2>
+
 
 ###
 
@@ -11,28 +24,26 @@
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MwcDlzNDhlemoxYnZsYzYxZmU0OGs4eGY4cmZkaDg5czA2NjAzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSx6mzbW1ew7K/giphy.gif"  />
 
-###
-
+### 🖥️ Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+</div>
+
+### 🔬 AI & Data Science
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" />
+</div>
+
+### 🛠️ Database & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" />
 </div>
 
 ###
