@@ -11,6 +11,13 @@ My goal is to do more than just develop intelligent models; I want to build reli
 👍 My long-term goal is to become a versatile engineer, actively engage with the global AI community 
 and drive impactful innovation with curiosity and persistence.
 </h2>
+<h4 align="center">👇 Click the banner below to view my portfolio 👇</h4>
+<p align="center">
+  <a href="https://beautiful-react-tailwind-portfolio-phi.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=My%20Portfolio&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+  </a>
+</p>
+
 
 
 ###
