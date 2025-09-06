@@ -16,10 +16,10 @@ and drive impactful innovation with curiosity and persistence.
 ###
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shomin2155vn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shomin2155vn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shomin2155vn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://nirzak-streak-stats.vercel.app/?user=shomin2155vn&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shomin2155vn&theme=tokyonight&layout=compact&langs_count=20)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shomin2155vn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
@@ -62,6 +62,6 @@ and drive impactful innovation with curiosity and persistence.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shomin2155vn/shomin2155vn/output/snake.svg" alt="Snake animation" />
+![github contribution grid snake animation](https://raw.githubusercontent.com/shomin2155vn/shomin2155vn/output/github-contribution-grid-snake.svg)
 
 ###
